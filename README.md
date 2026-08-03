@@ -117,7 +117,7 @@ One of the biggest takeaways from this project was learning how to create **Cust
 
 ## 🌐 Live Demo
 
-👉 *(Add your deployed application link here)*
+👉 https://currency-converter-sandy-gamma.vercel.app/
 
 ---
 
